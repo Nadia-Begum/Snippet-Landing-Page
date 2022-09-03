@@ -1,0 +1,152 @@
+body {
+    font-family: Poppins, sans-serif;
+    font-weight: lighter;
+    margin: 0;
+    margin:0 auto;
+    box-sizing: border-box
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #212020;
+    color: white;
+}
+
+.sign_in_logo {
+    position: relative;
+    top: -28px;
+    left: 1178px;
+}
+
+.sign_in_word {
+    position: relative;
+    left: 13px;
+    top: -4px;
+    font-size: 12px;
+    font-weight: 350;
+    font-style: normal;
+}
+
+.highlight {
+    color: lightgray;
+}
+
+.button1 {
+    position: relative;
+    left: 1270px;
+    top: -85px;
+    background-color: black;
+}
+
+.nav_logo {
+    position: relative;
+    top: 32px;
+    left: 78px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 48px;
+    position: relative;
+    top: -15px;
+}    
+
+.desc {
+    text-align: center;
+    position: relative;
+    top: -45px;
+    font-size: 15px;
+}
+
+.desc2 {
+    text-align: center;
+    position: relative;
+    top: -60px;
+    font-size: 15px;
+}
+
+.button2 {
+    position: relative;
+    left: 678px;
+    top: -60px;
+}
+
+.credit {
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    top: -60px;
+    left: 5px;
+}
+
+.background {
+    height: 800px;
+    background: url(file:///Users/nadiabegum/Documents/Codewell/Snippet%20Template%20Starter%20Files/Assets/Background.png) no-repeat;
+    background-size: cover;
+}
+
+.background2 {
+    height: 308.50px;
+    width: 1000px;
+    position: relative;
+    left: 250px;
+    background: url(file:///Users/nadiabegum/Documents/Codewell/Snippet%20Template%20Starter%20Files/Assets/Snippet%20Image.png) no-repeat;
+    background-size: cover;
+}
+
+
+.para {
+    position: relative;
+    top: 115px;
+    left: 175px;
+    padding-right: 950px;
+}
+
+footer {
+    position: relative;
+    top: -80px;
+}
+
+.footer_logo {
+    position: relative;
+    left: 78px;
+}
+
+.terms {
+    position: relative;
+    left: 1128px;
+    top: -54px;
+    font-size: 13px;
+}
+
+.policy {
+    position: relative;
+    left: 20px;
+}
+
+img {
+    width: 500px;
+    position:relative;
+    left: 650px;
+    top: -300px;
+}
+
+.h3 {
+    font-size: 28px;
+}
+
+.moveup {
+    position: relative;
+    top: -20px;
+}
